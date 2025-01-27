@@ -1,4 +1,4 @@
-# Sobre Mí
+## Sobre Mí
 
 Con más de 15 años de experiencia en el sector financiero y un grado superior en desarrollo de aplicaciones web, puedo contribuir en el sector de la tecnología con mi notable experiencia en business, y a la vez con una perspectiva fresca y conocimientos técnicos actualizados. Soy una persona muy orientada a objetivos, organizada y proactiva, con gran motivación para aprender y crecer en el ámbito IT.
 
@@ -21,7 +21,8 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 
 ## Experiencia Laboral
 
-**Viewnext | Técnico Analista contable Senior** </br>
+**Viewnext | Técnico Analista contable Senior** 
+  
   Abril 2018 - Marzo 2024
 
 ### Responsabilidades:
@@ -32,7 +33,8 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 - Elaboración de Cuentas Anuales y soporte auditores.
 - Manejo de Contaplus, SAGE y SAP.
 
-**Neoris | Internship Desarrollo en .Net** </br>
+**Neoris | Internship Desarrollo en .Net**
+
   Marzo 2023 - Junio 2023
 
 ### Resposabilidades:
@@ -40,7 +42,8 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 - Desarollo en .NET (C#) la funcionalidad de la página con un CRUD de inmuebles y usuarios, validación de usuarios (Identity)
 - Inclusión de mapas interactivos para localización de inmuebles.
 
-**Telefónica S.A. Controller Financiero** </br>
+**Telefónica S.A. Controller Financiero**
+
   Julio 2007 - Marzo 2017
 
 ### Resposabilidades:
@@ -52,13 +55,13 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 
 ## Estudios
 
-**2024 - AWS Re/Start Certificación AWS Cloud Practitioner (Factoria F5, 420h)** </br>
+**2024 - AWS Re/Start Certificación AWS Cloud Practitioner (Factoria F5, 420h)**
 
 - Conocimiento de los conceptos y servicios esenciales de AWS
 - Cubre las tecnologías fundamentales como cómputo (EC2), almacenamiento (S3), y bases de datos (RDS), familiaridad con redes (VPC), seguridad (IAM), y monitoreo (CloudWatch) para una 
   comprensión general de la infraestructura y los modelos de despliegue en la nube.
 
-** 2024 - Bootcamp Data Analyst (Adalab) ** </br>
+**2024 - Bootcamp Data Analyst (Adalab)** 
 
 - Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
 - MySQL (MySQL Workbench)
@@ -68,16 +71,16 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 - Power BI  y Tableau: Creación de Dashboards
 - Herramientas: Visual Studio Code, Jupyter Notebook, Slack y GitHub
 
-** 2023 - Técnico Superior Desarrollo aplicaciones WEB  (UNIR FP) ** </br>
+**2023 - Técnico Superior Desarrollo aplicaciones WEB  (UNIR FP)** 
 
 - Java, Spring Boot, HTML, CSS, Bootstrap, Javascript, Angular,MySql.
   Nota media: 8
 
-** 2007 - Licenciatura Administración y Dirección de empresas  (Universidad Europea de Madrid) ** </br>
+**2007 - Licenciatura Administración y Dirección de empresas  (Universidad Europea de Madrid)**
 
   Especialidad Auditoría, buen expediente académico.
 
-** 2002 - Técnico Superior Desarrollo aplicaciones informáticas (I.E.S Leonardo da Vinci) **  </br>
+**2002 - Técnico Superior Desarrollo aplicaciones informáticas (I.E.S Leonardo da Vinci)**
 
 # Proyectos seleccionados
 
@@ -99,7 +102,6 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 
 
 <!--![Retail](/assets/img/retail.jpeg)-->
-
 
 
 ## Soft Skills
