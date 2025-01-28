@@ -25,7 +25,7 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
   
   Abril 2018 - Marzo 2024
 
-### Responsabilidades:
+#### Responsabilidades:
 - Elaboración de cierres contables y generación de Estados financieros bajo IFRS.
 - Reporting Corporativo (bajo SAP BPC-HANA).
 - Incorporación de apuntes contables y análisis de cuentas.
@@ -37,7 +37,7 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 
   Marzo 2023 - Junio 2023
 
-### Resposabilidades:
+#### Resposabilidades:
 - Desarrollo de una pagina Web de una inmobiliaria utilizando HTML, CSS, BOOSTRAP.
 - Desarollo en .NET (C#) la funcionalidad de la página con un CRUD de inmuebles y usuarios, validación de usuarios (Identity)
 - Inclusión de mapas interactivos para localización de inmuebles.
@@ -46,7 +46,7 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 
   Julio 2007 - Marzo 2017
 
-### Resposabilidades:
+#### Resposabilidades:
 - Elaboración de informes de Balance y Resultados consolidados para la Alta Dirección.
 - Elaboración de la memoria anual consolidada y 20F.
 - Elaboración de informes comparativos mensuales y trimestrales de la información consolidada y análisis de los mismos.
