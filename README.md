@@ -21,7 +21,7 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 
 ## Experiencia Laboral
 
-**Viewnext | Técnico Analista contable Senior** 
+**Viewnext - Técnico Analista contable Senior** 
   
   Abril 2018 - Marzo 2024
 
@@ -33,7 +33,7 @@ Con más de 15 años de experiencia en el sector financiero y un grado superior 
 - Elaboración de Cuentas Anuales y soporte auditores.
 - Manejo de Contaplus, SAGE y SAP.
 
-**Neoris | Internship Desarrollo en .Net**
+**Neoris - Internship Desarrollo en .Net**
 
   Marzo 2023 - Junio 2023
 
